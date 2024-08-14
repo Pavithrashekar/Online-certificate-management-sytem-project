@@ -6,7 +6,7 @@ The Online Certificate Management System is a secure web-based portal designed t
 
 Key Features:
 
-Admin Capabilities:
+- Admin Capabilities:
 
 - Single Admin Account: The system supports one administrative account per organization, ensuring centralized control.
 
