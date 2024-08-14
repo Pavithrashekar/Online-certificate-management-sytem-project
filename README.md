@@ -8,12 +8,12 @@ Key Features:
 
 Admin Capabilities:
 
--Single Admin Account: The system supports one administrative account per organization, ensuring centralized control.
+- Single Admin Account: The system supports one administrative account per organization, ensuring centralized control.
 
-*User Credential Management: Admins can manually create and manage student accounts, including setting up usernames and passwords.
+* User Credential Management: Admins can manually create and manage student accounts, including setting up usernames and passwords.
 
-+Certificate Authorization: Admins can review and approve or reject student certificate requests, maintaining control over the certification process.
++ Certificate Authorization: Admins can review and approve or reject student certificate requests, maintaining control over the certification process.
 
--User and Certificate Overview: Admins can view and manage the list of all students and their certificate statuses.
+- User and Certificate Overview: Admins can view and manage the list of all students and their certificate statuses.
 
 
