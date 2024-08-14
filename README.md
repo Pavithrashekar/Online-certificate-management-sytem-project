@@ -79,6 +79,8 @@ Key Features:
     - Utility: Includes helper methods and functionality, such as PDF generation for certificates.
 
 This system provides a comprehensive and secure solution for managing academic credentials, ensuring efficient administrative control and seamless student interaction.
+
+![Screenshot of a login page on a GitHub issue showing an image.](‪C:\Users\hp\Downloads)
  
 
    
