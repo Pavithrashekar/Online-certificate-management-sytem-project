@@ -26,6 +26,20 @@ Key Features:
     - Certificate Access: Once a certificate is authorized, students can view and download it. Until authorization, certificates are not 
       accessible.
 
+ - Technologies Used:
+
+  - Frontend:
+
+    - React: A JavaScript library used to build the user interface, leveraging hooks for managing state and side effects.
+
+    - Material-UI: Provides a suite of modern, responsive UI components such as tables, buttons, and grids to enhance user experience.
+
+    - JavaScript ES6+: Utilizes modern JavaScript features for concise and effective code.
+
+    - Axios: Used for making HTTP requests to interact with the backend.
+
+    - Blob and URL APIs: Manage file downloads by creating and handling file-like objects in the browser.
+
 
 
 
