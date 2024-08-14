@@ -77,6 +77,8 @@ Key Features:
     - Exception Handling: Handles and processes errors gracefully to improve user experience.
     
     - Utility: Includes helper methods and functionality, such as PDF generation for certificates.
+
+This system provides a comprehensive and secure solution for managing academic credentials, ensuring efficient administrative control and seamless student interaction.
  
 
    
