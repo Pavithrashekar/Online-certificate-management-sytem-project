@@ -39,6 +39,19 @@ Key Features:
      - Axios: Used for making HTTP requests to interact with the backend.
 
      - Blob and URL APIs: Manage file downloads by creating and handling file-like objects in the browser.
+     
+- Backend:
+
+    - Spring Boot: A framework that facilitates the development of backend services, including JPA for database operations, Spring 
+      Security for authentication and authorization, and RESTful web services.
+    
+    - JWT (JSON Web Tokens): Handles secure authentication and authorization.
+    
+    - MySQL: The database system used for reliable data storage and retrieval.
+
+    - Flying Saucer PDF: Generates PDF documents for certificates, enabling downloadable and printable versions.
+    
+    - Lombok: Reduces boilerplate code, simplifying development and enhancing productivity.
 
 
 
