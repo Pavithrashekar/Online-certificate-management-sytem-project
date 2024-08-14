@@ -87,3 +87,10 @@ Here is a screenshot of the application
 
  ![login image](https://github.com/user-attachments/assets/fdf72c08-902b-479e-aaf6-c1be8fe42eae)
 
+![login page 2](https://github.com/user-attachments/assets/da75216b-61b1-4653-a392-beab38610641)
+
+![image 3](https://github.com/user-attachments/assets/83e8167b-b04e-4753-801b-0ca25a6b2aab)
+
+![image 4](https://github.com/user-attachments/assets/71766a51-2e7d-45a9-a2df-41efefa43c21)
+
+![image 5](https://github.com/user-attachments/assets/3bcee821-1b5c-4397-8a8b-6af451084afb)
