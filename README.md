@@ -61,6 +61,22 @@ Key Features:
     
     - Modular Design: Organizes code into distinct layers such as models, controllers, services, and repositories to ensure separation of 
       concerns and ease of maintenance.
+
+- Project Structure:
+
+    - Model: Defines the data structures and mappings to database entities.
+
+    - Controller: Manages incoming HTTP requests and directs them to the appropriate services.
+
+    - Repository: Interfaces with the database for CRUD operations.
+
+    - Service: Contains business logic and interacts with repositories to process requests.
+
+    - Configuration: Manages application settings, including security and database configurations.
+    
+    - Exception Handling: Handles and processes errors gracefully to improve user experience.
+    
+    - Utility: Includes helper methods and functionality, such as PDF generation for certificates.
  
 
    
