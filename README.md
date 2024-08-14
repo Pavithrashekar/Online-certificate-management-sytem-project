@@ -17,7 +17,7 @@ Key Features:
 
     - User and Certificate Overview: Admins can view and manage the list of all students and their certificate statuses.
 
--Student/User Capabilities:
+- Student/User Capabilities:
 
 
 
