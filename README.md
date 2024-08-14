@@ -17,4 +17,12 @@ Key Features:
 
     - User and Certificate Overview: Admins can view and manage the list of all students and their certificate statuses.
 
+-Student/User Capabilities:
+
+    -Self-Service Features: Students can change or recover their passwords through a self-service process.
+    
+    -Certificate Application: Students can apply for course completion certificates by filling out an application form.
+
+    -Certificate Access: Once a certificate is authorized, students can view and download it. Until authorization, certificates are not 
+     accessible.
 
