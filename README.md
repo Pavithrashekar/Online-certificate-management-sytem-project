@@ -54,13 +54,9 @@ Key Features:
     - Lombok: Reduces boilerplate code, simplifying development and enhancing productivity.
 
  Design Principles:
+ 
 
-    - Object-Oriented Programming (OOP): Structuring the backend code using classes and objects for a modular and maintainable approach.
-    
-    - DRY Principle (Don’t Repeat Yourself): Promotes code reusability by avoiding duplication and creating reusable components.
-    
-    - Modular Design: Organizes code into distinct layers such as models, controllers, services, and repositories to ensure separation of 
-      concerns and ease of maintenance.
+   
 
 
 
