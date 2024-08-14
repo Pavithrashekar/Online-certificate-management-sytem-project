@@ -28,7 +28,7 @@ Key Features:
 
  - Technologies Used:
 
-   - Frontend:
+- Frontend:
 
      - React: A JavaScript library used to build the user interface, leveraging hooks for managing state and side effects.
 
