@@ -80,11 +80,10 @@ Key Features:
 
 This system provides a comprehensive and secure solution for managing academic credentials, ensuring efficient administrative control and seamless student interaction.
 
-! [Screenshot of a login page on a GitHub issue showing an image.] (‪C:\Users\hp\Downloads\login page)
- 
+## Screenshots 
 
-   
-
+Here is a screenshot of the application 
 
 
+ ![login image](https://github.com/user-attachments/assets/fdf72c08-902b-479e-aaf6-c1be8fe42eae)
 
