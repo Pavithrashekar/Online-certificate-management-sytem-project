@@ -53,7 +53,7 @@ Key Features:
     
     - Lombok: Reduces boilerplate code, simplifying development and enhancing productivity.
 
-Design Principles:
+ Design Principles:
 
     - Object-Oriented Programming (OOP): Structuring the backend code using classes and objects for a modular and maintainable approach.
     
